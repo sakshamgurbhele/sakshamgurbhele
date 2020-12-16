@@ -1,10 +1,11 @@
-<img align="right" alt="Coding" width="400" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">
-<h1 align="center">Hi 👋, I'm SAKSHAM</h1>
+<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
+
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm SAKSHAM
+
+
 <h3 align="center">Trying to figure things out!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamgurbhele&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamgurbhele" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamgurbhele" alt="sakshamgurbhele" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sakshammtweets" target="blank"><img src="https://img.shields.io/twitter/follow/sakshammtweets?logo=twitter&style=for-the-badge" alt="sakshammtweets" /></a> </p>
 
