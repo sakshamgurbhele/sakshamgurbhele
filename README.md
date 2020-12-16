@@ -20,6 +20,8 @@
 
 - <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/house.png" width="20px" height="20px"/>  Hogwarts House: **Slytherin** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Slytherin_ClearBG.png">
 
+<img align="right" alt="Coding" width="225" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sakshammtweets" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sakshammtweets" height="30" width="40" /></a>
