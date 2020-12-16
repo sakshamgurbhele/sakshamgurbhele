@@ -2,6 +2,7 @@
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm SAKSHAM
 
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"><img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" data-canonical-src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif" style="max-width:100%; "></a>
 
 <h3 align="center">Trying to figure things out!</h3>
 
@@ -16,6 +17,8 @@
 - 📫 How to reach me **saksham9013gurbhele@gmail.com**
 
 - ⚡ Fun fact **I think I am funny, coz I am not sarcastic xD**
+
+- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/house.png" width="20px" height="20px"/>  Hogwarts House: **Slytherin** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Slytherin_ClearBG.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +35,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshamgurbhele&show_icons=true&locale=en&layout=compact" alt="sakshamgurbhele" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshamgurbhele&show_icons=true&locale=en" alt="sakshamgurbhele" /></p>
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
+<br/>
+<br/>
+
+![](https://github.com/JayantGoel001/JayantGoel001/blob/master/footer.png)
+
