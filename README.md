@@ -1,4 +1,4 @@
-{img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"}
+<img align="right" alt="Coding" width="400" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">
 <h1 align="center">Hi 👋, I'm SAKSHAM</h1>
 <h3 align="center">Trying to figure things out!</h3>
 
