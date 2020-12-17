@@ -29,6 +29,7 @@
 <a href="https://fb.com/saksham.gurbhele.92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="saksham.gurbhele.92" height="30" width="40" /></a>
 <a href="https://instagram.com/sakshamm_9pvt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sakshamm_9pvt" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sakshamm9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sakshamm9" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sakshamm9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="sakshamm9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
