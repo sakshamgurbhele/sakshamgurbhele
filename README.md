@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I think I am funny, coz I am not sarcastic**<img src="https://media.giphy.com/media/IbaaxVxgaZAZx9ddJ4/giphy.gif" width="29px">
 
-- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/house.png" width="20px" height="20px"/>  Hogwarts House: **Slytherin** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Slytherin_ClearBG.png">
+- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/house.png" width="20px" height="20px"/>  Hogwarts House: **Gryffindor** <img width="20px" height="20px" src="https://static.wikia.nocookie.net/harrypotter/images/b/b1/Gryffindor_ClearBG.png/revision/latest/scale-to-width-down/1000?cb=20190222162949">
 
 <img align="right" alt="Coding" width="225" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
