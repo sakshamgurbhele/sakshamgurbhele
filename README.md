@@ -39,7 +39,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshamgurbhele&show_icons=true&locale=en" alt="sakshamgurbhele" /></p>
 
-### Show some <img src="https://media.giphy.com/media/TGXoYOYmVQ9v6M3g1q/giphy.gif" width="45px"> by starring some of the repositories! <img src="https://media.giphy.com/media/4tSHBpzJw7R3rrKUeo/giphy.gif" width="60px">
+### Show some <img src="https://media.giphy.com/media/TGXoYOYmVQ9v6M3g1q/giphy.gif" width="45px"> by starring some of the repositories! <img src="https://media.giphy.com/media/QTlmH8hEoVoi83mdJC/giphy.gif" width="36px">
 
 </div>
 
