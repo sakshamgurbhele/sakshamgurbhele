@@ -18,8 +18,7 @@
 
 - ⚡ Fun fact **I think I am funny, coz I am not sarcastic**<img src="https://media.giphy.com/media/IbaaxVxgaZAZx9ddJ4/giphy.gif" width="29px">
 
-- <img src="https://media.giphy.com/media/VuTPhjE6NIWzK/giphy.gif" width="35px" height="35px"/>  Hogwarts House: **Gryffindor** <img width="30px" height="30px" src="https://media.giphy.com/media/kZLMHlWjTVRM1GUODG/giphy.gif"> <img src="https://media.giphy.com/media/2rAKUUq1kAQhe0tiW3/giphy.gif" width="50px" height="33px"/>
-
+- <img src="https://media.giphy.com/media/VuTPhjE6NIWzK/giphy.gif" width="25px" height="25px"/>  Hogwarts House: **Gryffindor** <img width="25px" height="25px" src="https://media.giphy.com/media/kZLMHlWjTVRM1GUODG/giphy.gif"> <img align="center" alt="Snitch" src="https://media.giphy.com/media/2rAKUUq1kAQhe0tiW3/giphy.gif" width="60px" height="60px"/>
 
 <img align="right" alt="Coding" width="225" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
