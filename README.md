@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **saksham9013gurbhele@gmail.com**
 
-- ⚡ Fun fact **I think I am funny, coz I am not sarcastic xD**
+- ⚡ Fun fact **I think I am funny, coz I am not sarcastic**<img src="https://media.giphy.com/media/IbaaxVxgaZAZx9ddJ4/giphy.gif" width="29px">
 
 - <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/house.png" width="20px" height="20px"/>  Hogwarts House: **Slytherin** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Slytherin_ClearBG.png">
 
