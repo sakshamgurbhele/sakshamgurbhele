@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm SAKSHAM
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="36px">, I'm SAKSHAM
 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"><img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" data-canonical-src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif" style="max-width:100%; "></a>
 
@@ -39,7 +39,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshamgurbhele&show_icons=true&locale=en" alt="sakshamgurbhele" /></p>
 
-### Show some ❤️ by starring some of the repositories!
+### Show some <img src="https://media.giphy.com/media/TGXoYOYmVQ9v6M3g1q/giphy.gif" width="45px"> by starring some of the repositories! <img src="https://media.giphy.com/media/4tSHBpzJw7R3rrKUeo/giphy.gif" width="60px">
 
 </div>
 
