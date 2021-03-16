@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
 
-## Hey <img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Hi.gif" width="36px">, I'm SAKSHAM
+## Hey <img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Hi.gif" width="36px">, I'm SAKSHAM
 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"><img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" data-canonical-src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif" style="max-width:100%; "></a>
 
@@ -22,7 +22,7 @@
 
 <img align="right" alt="Coding" width="225" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
-<h3 align="left">Connect with me:<img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Handshake.gif" width="70px"></h3>
+<h3 align="left">Connect with me:<img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="70px"></h3>
 <p align="left">
 <a href="https://twitter.com/sakshammtweets" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sakshammtweets" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saksham gurbhele" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saksham gurbhele" height="30" width="40" /></a>
@@ -46,5 +46,5 @@
 <br/>
 <br/>
 
-![](https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/footer.png)
+![](https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/footer%20(1).png)
 
