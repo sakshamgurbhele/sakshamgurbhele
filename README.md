@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
+
 
 ## Hey <img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Hi.gif" width="36px">, I'm SAKSHAM
 
@@ -12,34 +12,32 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sakshamgurbhele](https://github.com/sakshamgurbhele)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/sakshamgurbhele)
 
 - 📫 How to reach me **saksham9013gurbhele@gmail.com**
 
-- ⚡ Fun fact **I think I am funny, coz I am not sarcastic**<img src="https://media.giphy.com/media/IbaaxVxgaZAZx9ddJ4/giphy.gif" width="29px">
+- <img src="https://media.giphy.com/media/VuTPhjE6NIWzK/giphy.gif" width="20px" height="20px"/>  Hogwarts House: **Gryffindor** <img width="20px" height="20px" src="https://media.giphy.com/media/kZLMHlWjTVRM1GUODG/giphy.gif"> <img align="center" alt="Snitch" src="https://media.giphy.com/media/2rAKUUq1kAQhe0tiW3/giphy.gif" width="30px" height="30px"/>
 
-- <img src="https://media.giphy.com/media/VuTPhjE6NIWzK/giphy.gif" width="25px" height="25px"/>  Hogwarts House: **Gryffindor** <img width="25px" height="25px" src="https://media.giphy.com/media/kZLMHlWjTVRM1GUODG/giphy.gif"> <img align="center" alt="Snitch" src="https://media.giphy.com/media/2rAKUUq1kAQhe0tiW3/giphy.gif" width="60px" height="60px"/>
-
-<img align="right" alt="Coding" width="225" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
-
-<h3 align="left">Connect with me:<img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="70px"></h3>
+<!-- <img align="right" alt="Coding" width="225" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+ -->
+<h3 align="left">Connect with me:<img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="50px"></h3>
 <p align="left">
 <a href="https://twitter.com/sakshammtweets" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sakshammtweets" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saksham gurbhele" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saksham gurbhele" height="30" width="40" /></a>
-<a href="https://fb.com/saksham.gurbhele.92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="saksham.gurbhele.92" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/saksham.gurbhele.92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="saksham.gurbhele.92" height="30" width="40" /></a>
 <a href="https://instagram.com/sakshamm_9pvt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sakshamm_9pvt" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sakshamm9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sakshamm9" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sakshamm9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="sakshamm9" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://juststickers.in/wp-content/uploads/2013/06/Android.png" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://dhirajkumarsingh.files.wordpress.com/2012/05/css3-html5-logo.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="http://blog.idrsolutions.com/wp-content/uploads/2014/06/java_logo.jpg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://fixthephoto.com/blog/UserFiles/adobe-photoshop-logo.png" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://res.cloudinary.com/teepublic/image/private/s--TwCcIoc_--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1520050660/production/designs/2416585_0.jpg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshamgurbhele&show_icons=true&locale=en&layout=compact" alt="sakshamgurbhele" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshamgurbhele&show_icons=true&locale=en&layout=compact" alt="sakshamgurbhele" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshamgurbhele&show_icons=true&locale=en" alt="sakshamgurbhele" /></p>
 
-### Show some <img src="https://media.giphy.com/media/TGXoYOYmVQ9v6M3g1q/giphy.gif" width="45px"> by starring some of the repositories!!! <img src="https://media.giphy.com/media/QTlmH8hEoVoi83mdJC/giphy.gif" width="36px">
+### Show some <img src="https://media.giphy.com/media/TGXoYOYmVQ9v6M3g1q/giphy.gif" width="30px"> by starring some of the repositories!!! <img src="https://media.giphy.com/media/QTlmH8hEoVoi83mdJC/giphy.gif" width="25px">
 
 </div>
 
