@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamgurbhele&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamgurbhele" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sakshammtweets" target="blank"><img src="https://img.shields.io/twitter/follow/sakshammtweets?logo=twitter&style=for-the-badge" alt="sakshammtweets" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ssakhiee" target="blank"><img src="https://img.shields.io/twitter/follow/sakshammtweets?logo=twitter&style=for-the-badge" alt="sakshammtweets" /></a> </p>
 
 - 😄 Pronouns: He/Him/His
 
