@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Google Cloud Platform**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Android and Apache Cassendra**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/sakshamgurbhele)
 
@@ -24,7 +24,7 @@
 
 <!-- <img align="right" alt="Coding" width="225" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
  -->
-<h3 align="left">Connect with me:<img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="50px"></h3>
+<h3 align="left">Connect with me:<img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="45px"></h3>
 <p align="left">
 <a href="https://twitter.com/ssakhiee" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="saksham twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saksham gurbhele" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="saksham gurbhele" height="30" width="40" /></a>
@@ -42,9 +42,7 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshamgurbhele&show_icons=true&locale=en&layout=compact" alt="sakshamgurbhele" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshamgurbhele&show_icons=true&locale=en" alt="sakshamgurbhele" /></p>
 
-### Show some <img src="https://media.giphy.com/media/TGXoYOYmVQ9v6M3g1q/giphy.gif" width="30px"> by starring some of the repositories!!! <img src="https://media.giphy.com/media/QTlmH8hEoVoi83mdJC/giphy.gif" width="25px">
 
 </div>
 
