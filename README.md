@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamgurbhele&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamgurbhele" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ssakhiee" target="blank"><img src="https://img.shields.io/twitter/follow/ssakhiee?logo=twitter&style=for-the-badge" alt="ssakhiee" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sakshamm_9" target="blank"><img src="https://img.shields.io/twitter/follow/sakshamm_9?logo=twitter&style=for-the-badge" alt="ssakhiee" /></a> </p>
 
 - 😄 Pronouns: He/Him/His
 
@@ -26,7 +26,7 @@
  -->
 <h3 align="left">Connect with me:<img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="45px"></h3>
 <p align="left">
-<a href="https://twitter.com/ssakhiee" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="saksham twitter" height="30" width="40" /></a>
+<a href="https://twitter.com/sakshamm_9" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="saksham twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saksham gurbhele" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="saksham gurbhele" height="30" width="40" /></a>
 <!-- <a href="https://fb.com/saksham.gurbhele.92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="saksham.gurbhele.92" height="30" width="40" /></a>
 <a href="https://instagram.com/sakshamm_9pvt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sakshamm_9pvt" height="30" width="40" /></a>
