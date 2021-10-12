@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Android, JavaScript** and **Kubernetes**
 - 👨‍💻 All of my projects are available at [Here](https://github.com/sakshamgurbhele)
 
-
+---
  
 <h3 align="left">Connect with me:<img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="45px"></h3>
 <p align="left">
