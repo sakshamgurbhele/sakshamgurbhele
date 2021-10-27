@@ -36,7 +36,21 @@
 
 </div>
 
+___________________________________________________________________________________________________________________________________________________________________
+
+## 📈 Stats
+
+ <table>
+  <tr>
+    <td>
+
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshamgurbhele&show_icons=true&theme=dracula)
+   </td>
+
+   <td>  
+
 ---
 <p align="center">
   <img src="https://github.com/sakshamgurbhele/sakshamgurbhele/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
