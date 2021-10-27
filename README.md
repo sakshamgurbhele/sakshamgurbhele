@@ -44,17 +44,17 @@ ________________________________________________________________________________
   <tr>
     <td>
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshamgurbhele&show_icons=true&theme=dracula)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshamgurbhele&show_icons=true&theme=dark)
    </td>
 
    <td>  
    
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sakshamgurbhele&theme=dracula)
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sakshamgurbhele&theme=dark)
      </td>
       </tr>
   </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sakshamgurbhele&&theme=dracula)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sakshamgurbhele&&theme=dark)
 
 
 ---
