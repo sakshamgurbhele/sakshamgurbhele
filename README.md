@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/sakshamgurbhele/" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="saksham gurbhele" height="30" width="40" /></a>
 
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 
 <p align="left"> 
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -38,7 +38,7 @@
 
 ___________________________________________________________________________________________________________________________________________________________________
 
-## 📈 Stats
+### 📈 Stats
 
  <table>
   <tr>
@@ -54,7 +54,7 @@ ________________________________________________________________________________
       </tr>
   </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sakshamgurbhele&&theme=dark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sakshamgurbhele&&theme=one-dark)
 
 
 ---
