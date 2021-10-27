@@ -44,7 +44,7 @@ ________________________________________________________________________________
   <tr>
     <td>
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshamgurbhele&show_icons=true&theme=dark)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshamgurbhele&show_icons=true&theme=vision-friendly-dark)
    </td>
 
    <td>  
