@@ -2,7 +2,6 @@
 ![](https://raw.githubusercontent.com/sakshamgurbhele/sakshamgurbhele/main/Images/Black%20Technology%20LinkedIn%20Banner.png)
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamgurbhele&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamgurbhele" /> </p>
 
 - 😄 Pronouns: He/Him/His
@@ -11,12 +10,14 @@
 - 👨‍💻 All of my projects are available at [Here](https://github.com/sakshamgurbhele)
 
 ---
- 
+
 <h3 align="left">Connect with me:<img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="45px"></h3>
 <p align="left">
 <a href="https://twitter.com/sakshamm_9" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="saksham twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sakshamgurbhele/" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="saksham gurbhele" height="30" width="40" /></a>
+</div>
 
+---
 
 ### Languages and Tools:
 
@@ -62,3 +63,6 @@ ________________________________________________________________________________
   <img src="https://github.com/sakshamgurbhele/sakshamgurbhele/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
+---
+
+<div align="center"><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/new-banner/devcard.svg" width="300" alt="sakshamgurbhele's Dev Card"/></a></div>
