@@ -65,4 +65,4 @@ ________________________________________________________________________________
 
 ---
 
-<div align="center"><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/new-banner/devcard.svg" width="300" alt="sakshamgurbhele's Dev Card"/></a></div>
+<div align="center"><a href="https://twitter.com/sakshamm_9"><img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/new-banner/devcard.svg" width="300" alt="sakshamgurbhele's Dev Card"/></a></div>
