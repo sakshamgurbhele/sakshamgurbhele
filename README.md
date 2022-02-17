@@ -6,7 +6,7 @@
 
 - 😄 Pronouns: He/Him/His
 - 🔭 I’m currently working on **Google Cloud Platform**
-- 🌱 I’m currently learning **Android, JavaScript** and **Kubernetes**
+- 🌱 I’m currently learning **React**
 - 👨‍💻 All of my projects are available at [Here](https://github.com/sakshamgurbhele)
 
 ---
