@@ -1,5 +1,5 @@
 
-![](https://raw.githubusercontent.com/sakshamgurbhele/sakshamgurbhele/main/Images/Black%20Technology%20LinkedIn%20Banner.png)
+![](https://raw.githubusercontent.com/sakshamgurbhele/sakshamgurbhele/new-banner/Images/Black%20Technology%20LinkedIn%20Banner.png)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamgurbhele&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamgurbhele" /> </p>
