@@ -55,14 +55,20 @@ ________________________________________________________________________________
       </tr>
   </table>
 
+<!-- +
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sakshamgurbhele&&theme=one-dark)
 
 
 ---
+
 <p align="center">
   <img src="https://github.com/sakshamgurbhele/sakshamgurbhele/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-
++ -->
 ---
 
-<div align="center"><a href="https://twitter.com/sakshamm_9"><img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/new-banner/devcard.svg" width="300" alt="sakshamgurbhele's Dev Card"/></a></div>
+<!-- + <div align="center"><a href="https://twitter.com/sakshamm_9"><img src="https://api.daily.dev/devcards/v2/C151EDYvfsqWwUcfr2LWn.png?r=vmh&type=default" width="356" alt="sakshamgurbhele's Dev Card"/></a></div>  + -->
+### 📖 Daily.dev Card
+<div align="center"
+<a href="https://app.daily.dev/saksham"><img src="https://api.daily.dev/devcards/v2/C151EDYvfsqWwUcfr2LWn.png?r=vmh&type=wide" width="652 alt="SAKSHAM's Dev Card"/></a>
+</div>
